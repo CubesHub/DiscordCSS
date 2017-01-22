@@ -1010,7 +1010,7 @@
            	*/
            	
            	.user-popout .header {
-                           	background: rgba(14,16,22,1); !important;
+                           	background: rgba(7,8,11,1); !important;
            	}
            	
            	.user-popout .avatar-wrapper .avatar-popout {
@@ -1019,13 +1019,13 @@
            	}
            	
            	.user-popout .body {
-                           	background:rgba(14,16,22,1);
+                           	background:rgba(7,8,11,1);
                            	border-left:1px solid rgba(255,255,255,0.2);
                            	border-right:1px solid rgba(255,255,255,0.2);
            	}
            	
            	.user-popout .footer {
-                           	background:rgba(14,16,22,1);
+                           	background:rgba(7,8,11,1);
            	   border-top:1px solid rgba(255,255,255,0.2);
            	   border-left:1px solid rgba(255,255,255,0.2);
                            	border-right:1px solid rgba(255,255,255,0.2);
@@ -1088,7 +1088,7 @@
            	
            	.quick-message {
                            	border: 1px solid rgba(255,255,255,0.25);
-                           	background: rgba(14,16,22,1);
+                           	background: rgba(7,8,11,1);
                            	border-radius: 3px;
                            	width: 100%;
                            	font-size: 14px;
@@ -1131,7 +1131,7 @@
 	width: 250px;
 }
 .section.notes, .section.roles {
-    background: rgba(21,25,29,1);
+    background: rgba(25,24,24,1);
 	margin-left: 15px;
 	border-radius: 3px;
 }
