@@ -1,24 +1,7 @@
 //META{"name":"Camilla","description":"Dark Variant","author":"Cubes","version":"1.0"}*//{}
            	@import url(https://fonts.googleapis.com/css?family=Karla);
            	
-           	/*
-           	                    _                _                                   _
-           	 __ _ _ __  _ __   | |__   __ _  ___| | ____ _ _ __ ___  _   _ _ __   __| |
-           	/ _` | '_ \| '_ \  | '_ \ / _` |/ __| |/ / _` | '__/ _ \| | | | '_ \ / _` |
-           	| (_| | |_) | |_) | | |_) | (_| | (__|   < (_| | | | (_) | |_| | | | | (_| |
-           	\__,_| .__/| .__/  |_.__/ \__,_|\___|_|\_\__, |_|  \___/ \__,_|_| |_|\__,_|
-           	     |_|   |_|                           |___/                             
-           	*/
-           	
-           	/* Main background and settings background */
-           	.app,
-           	.callout-backdrop {
-                           	background:url(https://i.imgur.com/gIWBamW.jpg) !important;
-                           	background-size:cover !important;
-           	}
-           	
-           	/*
-           	                          _                           _       
+           	/*           	                          _                           _       
            	 ___ ___  _ __ ___    ___| | ___ _ __ ___   ___ _ __ | |_ ___
            	/ __/ _ \| '__/ _ \  / _ \ |/ _ \ '_ ` _ \ / _ \ '_ \| __/ __|
            	| (_| (_) | | |  __/ |  __/ |  __/ | | | | |  __/ | | | |_\__ \
@@ -302,7 +285,7 @@
            	   padding-top:0px;
            	}
            	
-		.guilds-wrapper .guilds .friends-icon:after {
+           	.guilds-wrapper .guilds .friends-icon:after {
            	   display:block;
            	   width:40px;
            	   height:40px;
@@ -1027,7 +1010,7 @@
            	*/
            	
            	.user-popout .header {
-                           	background: rgba(0,0,0,0.8); !important;
+                           	background: rgba(26,26,27,1); !important;
            	}
            	
            	.user-popout .avatar-wrapper .avatar-popout {
@@ -1036,13 +1019,13 @@
            	}
            	
            	.user-popout .body {
-                           	background:rgba(0,0,0,0.8);
+                           	background:rgba(26,26,27,1);
                            	border-left:1px solid rgba(255,255,255,0.2);
                            	border-right:1px solid rgba(255,255,255,0.2);
            	}
            	
            	.user-popout .footer {
-                           	background:rgba(0,0,0,0.8);
+                           	background:rgba(26,26,27,1);
            	   border-top:1px solid rgba(255,255,255,0.2);
            	   border-left:1px solid rgba(255,255,255,0.2);
                            	border-right:1px solid rgba(255,255,255,0.2);
@@ -1105,7 +1088,7 @@
            	
            	.quick-message {
                            	border: 1px solid rgba(255,255,255,0.25);
-                           	background: rgba(0, 0, 0, 1);
+                           	background: rgba(26,26,27,1);
                            	border-radius: 3px;
                            	width: 100%;
                            	font-size: 14px;
@@ -1148,7 +1131,7 @@
 	width: 250px;
 }
 .section.notes, .section.roles {
-    background: rgba(99, 99, 99, 0.24);
+    background: rgba(48,49,51,1);
 	margin-left: 15px;
 	border-radius: 3px;
 }
