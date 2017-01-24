@@ -2043,4 +2043,19 @@
            	.server-row:nth-child(2n+2) {
                            	background-color:rgba(0,0,0,0) !important;
            	}
-
+           	
+           	.theme-dark .search-results-wrap .search-result .search-result-message.hit {
+                           	border: 2px solid rgb(42, 43, 47);
+                           	background: #0e1016;
+           	}
+           	
+           	.theme-dark .search-results-wrap .search-result.expanded .search-result-message.hit {
+                           	border-top: 2px solid rgb(54, 57, 62);
+                           	border-bottom: 2px solid rgb(54, 57, 62);
+                           	box-sizing: border-box;
+                           	background-color: #26272c;
+           	}
+           	
+           	.theme-dark .search-results-wrap {
+                           	background-color: #07080b;
+           	}
