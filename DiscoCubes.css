@@ -441,7 +441,7 @@
            	}
            	
            	#voice-connection .btn {
-                           	background:#0a0c10;
+                           	background: rgba(0,0,0,0.4);
                            	box-shadow:none !important;
            	}
            	
