@@ -810,6 +810,10 @@
                            	background:rgba(0,0,0,0.95) !important;
            	}
            	
+		.channel-textarea-autocomplete-inner header {
+				background:rgba(0,0,0,0.6) !important;
+		}
+
            	.channel-textarea-autocomplete-inner ul li.active {
                            	background:rgba(255,255,255,0.1) !important;
            	}
