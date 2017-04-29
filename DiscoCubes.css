@@ -4121,3 +4121,22 @@
            	.theme-dark .search-results-wrap {
                            	background-color: #07080b;
            	}
+		#rtc-connection {
+    				background: rgba(255,255,255,0);
+				border:none;
+		}
+		#rtc-connection .btn-group {
+				border:none;
+		}
+		#rtc-connection .btn-disconnect {
+   				 background: rgba(255,255,255,0);
+		}
+		#rtc-connection .btn-info {
+   				background: rgba(255,255,255,0);
+    				border-right: 1px solid #1c1e22;
+		}
+		#rtc-connection .btn-info:after {
+				background-size: 8px 19px;
+				background-image: url(/assets/d44f38b8b37257c7684e2b3286669a0f.svg);
+				opacity: .3;
+		}
