@@ -4164,3 +4164,7 @@
     				 color: #ffffff;
   		  		 background-color: rgb(43, 43, 43);
 		}
+
+		.theme-dark .ui-standard-sidebar-view {
+   				 background: none;
+		}
