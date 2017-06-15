@@ -64,7 +64,7 @@
            	}
            	
            	/* Server list area */
-           	.guilds-wrapper { background:rgba(0,0,0,0.6) !important }
+           	.guilds-wrapper { background:rgba(0,0,0,0.8) !important }
            	
            	/* Channels list area */
            	.channels-wrap { background:rgba(0,0,0,0.7) }
@@ -4139,3 +4139,16 @@
 				background-size: 8px 19px;
 				opacity: .3;
 		}
+		.container-RYiLUQ {
+    				background-color: rgba(0,0,0,0.3);
+		}
+
+		.container-3lnMWU {
+		   		 background: rgba(0,0,0,0.3);
+		  		 border-bottom: None;
+		}
+
+		.container-iksrDt {
+		   		 background: rgba(0,0,0,0.3);
+		}
+
