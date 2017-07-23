@@ -4166,5 +4166,9 @@
 		}
 
 		.theme-dark .ui-standard-sidebar-view {
-   				 background: none;
+   				background: none;
+		}
+		
+		.theme-dark .inner-3if5cm {
+    				background-color: rgba(82, 82, 82, 0.3);
 		}
